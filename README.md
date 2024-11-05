@@ -1,0 +1,2 @@
+# StudentManagementSystem
+DBMS Mini Project
